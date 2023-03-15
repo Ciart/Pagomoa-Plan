@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "456700991546f7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "드릴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91df9ee26e45a9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "티어 광물.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "194fb537203d7eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "드릴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pagomoa.md",
+                "file": "드릴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pagomoa.md",
+                "file": "드릴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pagomoa.md"
+                "file": "드릴.md"
               }
             }
           }
@@ -146,8 +183,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f606f11bdde63bdf",
+  "active": "194fb537203d7eb9",
   "lastOpenFiles": [
+    "광물.md",
+    "드릴.md",
+    "티어 광물.md",
     "Pagomoa.md"
   ]
 }
