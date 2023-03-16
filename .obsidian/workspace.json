@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e290bcdf293cafbf",
+        "id": "253b18199a14ce88",
         "type": "tabs",
         "children": [
           {
-            "id": "75f0bb07e3e1099d",
+            "id": "d78050284ea9b0af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "티어 광물.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "티어 광물.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "티어 광물.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "티어 광물.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,13 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56e7771a7126bab9",
+  "active": "d78050284ea9b0af",
   "lastOpenFiles": [
-    "Pagomoa.md",
-    "티어 광물.md",
-    "맵.md",
     "드릴.md",
+    "맵.md",
     "광물.md",
+    "특수 광물.md",
+    "Pagomoa.md",
+    "캐릭터.md",
+    "티어 광물.md",
     "1 - 구리.md"
   ]
 }
