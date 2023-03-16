@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "티어 광물.md",
+                "file": "Pagomoa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "티어 광물.md",
+                "file": "Pagomoa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "티어 광물.md",
+                "file": "Pagomoa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "티어 광물.md"
+                "file": "Pagomoa.md"
               }
             }
           }
@@ -137,21 +137,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "56e7771a7126bab9",
+  "active": "75f0bb07e3e1099d",
   "lastOpenFiles": [
-    "Pagomoa.md",
-    "티어 광물.md",
-    "맵.md",
-    "드릴.md",
     "광물.md",
+    "드릴.md",
+    "맵.md",
+    "티어 광물.md",
+    "Pagomoa.md",
     "1 - 구리.md"
   ]
 }
