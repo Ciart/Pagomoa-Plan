@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "253b18199a14ce88",
+        "id": "94e3335b573a5c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "d78050284ea9b0af",
+            "id": "5b763a02ad1ecca8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "a9bea4d2fae0e784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d78050284ea9b0af",
+  "active": "a9bea4d2fae0e784",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "드릴.md",
     "맵.md",
     "광물.md",
